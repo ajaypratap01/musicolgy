@@ -182,7 +182,7 @@ footer ul li a{font-size: 1.5rem;}
     .wrap-3 .col-4 img{ width: 100%; height: auto;}
     .wrap-4 .row .col-4{flex-basis: 100%; max-width: 100%; margin-bottom: 20px;}
     .wrap-5 .row img{margin-top: 10px;}
-    
+    .wrap-1 input{padding: 5px; font-size: 1.5rem; display: none;}
     footer .one{padding: 0px;}
     footer .row{flex-direction: column; padding-top: 50px;}
     footer .row .col-6{max-width: 100%; text-align: center;}
@@ -195,7 +195,7 @@ footer ul li a{font-size: 1.5rem;}
 
 @media screen and (max-width: 556px){
     .container{text-align: center;}
-
+    .wrap-1 input{padding: 5px; font-size: 1.5rem; display: none;}
     footer .ab{display: flex; flex-direction: column; text-align: center;}
     footer .ab .col-4{display: flex; justify-content: space-around; margin-bottom: 20px;}
     footer  ul li{margin: 0px 0px 10px 0px;}
