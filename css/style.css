@@ -156,6 +156,8 @@ footer ul li a{font-size: 1.5rem;}
     .wrap-1 .col-4{flex-wrap: nowrap; justify-content: right; align-items: center;}
     .wrap-1 .col-4 span{display: inline-block; margin-left: 1.5rem; font-size: 2rem;}
 
+    .wrap-2{margin-top: 100px;}
+    
     .wrap-5 .info-1 h2 {margin: 0%; line-height: 5rem;}
     .wrap-5 .info-1 p {margin: 0%;}
     .wrap-5 .info-1 button {margin: 1rem 0rem; width: 90%;}
