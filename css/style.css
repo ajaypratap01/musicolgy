@@ -78,7 +78,7 @@ ul{list-style: none; color: #fff;}
 .wrap-3 .card {position: relative; margin: 20px;}
 .wrap-3 .row .col-4{margin-bottom: 50px;}
 .wrap-3 .card img{max-width: 100%; height: auto;}
-.wrap-3 .figcaption{max-width: 100%; background-color: #303030; text-align: center; padding: 20px 10px; margin-top: -5px;}
+.wrap-3 .figcaption{max-width: 100%; background-color: #303030; text-align: center; padding: 20px 10px; margin-top: -15px;}
 .wrap-3 .figcaption h3{font-size: 2rem; margin-bottom: 10px; color: #fff;}
 .wrap-3 .figcaption p{margin-bottom: 10px;}
 
