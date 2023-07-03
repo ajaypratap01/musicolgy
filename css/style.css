@@ -152,7 +152,7 @@ footer ul li a{font-size: 1.5rem;}
 @media screen and (max-width: 768px) {
     .wrap-2 .col-6{margin: 0px; max-width: 100%; flex-basis: 100%;}
     nav{display: none;}
-    .wrap-1 input{display: block;}
+    .wrap-1 input{display: none;}
     .wrap-1 .col-4{flex-wrap: nowrap; justify-content: right; align-items: center;}
     .wrap-1 .col-4 span{display: inline-block; margin-left: 1.5rem; font-size: 2rem;}
 
